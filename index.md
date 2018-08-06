@@ -7,8 +7,8 @@ Jenis Kelamin			: Male<br>
 Tempat Tanggal Lahir		: Jakarta, 25 September 1993<br>
 Alamat				: Jl.Kp jawa cikaret Bogor<br>
 Nomor Telepon			: 087772717491<br>
-Agam				: Moslem<br>
-Hobi				: Baca Buku, Mendengarkan Musik<br>
+Agama				: Moslem<br>
+
 
 KARAKTER PRIBADI
 
