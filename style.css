@@ -5,3 +5,7 @@ body{
     background-color: aquamarine;
     font-family: 'Space Mono', monospace;
 }
+#bg-web{
+    background-color: blue;
+    color: aliceblue;
+}
