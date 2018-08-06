@@ -2,12 +2,12 @@
 
 DATA PRIBADI
 	
-Nama				: Septiadi Rahman<br>
-Jenis Kelamin			: Male<br>
+Nama						: Septiadi Rahman<br>
+Jenis Kelamin				: Male<br>
 Tempat Tanggal Lahir		: Jakarta, 25 September 1993<br>
-Alamat				: Jl.Kp jawa cikaret Bogor<br>
-Nomor Telepon			: 087772717491<br>
-Agama				: Islam
+Alamat						: Jl.Kp jawa cikaret Bogor<br>
+Nomor Telepon				: 087772717491<br>
+Agama						: Islam
 
 
 KARAKTER PRIBADI
