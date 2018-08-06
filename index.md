@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kukode/challenge-01/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CURRICULUM VITAE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DATA PRIBADI
+	
+Nama				: Septiadi Rahman
+Jenis Kelamin		: Male
+Tempat Tanggal Lahir	: Jakarta, 25 September 1993
+Alamat			: Jl.Kp jawa cikaret Bogor
+Nomor Telepon		: 087772717491
+Agam				: Moslem
+Hobi				: Baca Buku, Mendengarkan Musik
 
-### Markdown
+KARAKTER PRIBADI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•	Dapat bekerja keras
+•	Bisa bekerja secara mandiri maupun team
+•	Siap belajar hal yang baru dalam pemrograman
 
-```markdown
-Syntax highlighted code block
+FORMAL EDUCATION
+	
+	1997 – 2000		TK Kartika 34
+	2000 – 2006		SDN Polisi 4 Bogor
+	2006 – 2009		SMPN Al Azhar Plus Bogor
+	2009 – 2011		MAN 2 Bogor
+	2011 – 2015		UPI YAI Jakarta
+	2015 – 2018		Universitas Pakuan Bogor 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+COMPUTER LITERATE
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kukode/challenge-01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+•	MS. Office (MS.Word, MS.Excell, and Power Point)
+•	Internet	
+•	Web Design (HTML,CSS,JQUERY,BOOTSTRAP)
+•	Web Programming (PHP,MYSQL)
